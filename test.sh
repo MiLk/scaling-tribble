@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "This is aanother test."
+echo "This is another test."
 exit 0
