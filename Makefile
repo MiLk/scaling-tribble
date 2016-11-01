@@ -1,7 +1,6 @@
 .PHONY: test slow-test deploy
 
 test:
-	env
 	@echo "This is a test."
 	@bash test.sh
 
